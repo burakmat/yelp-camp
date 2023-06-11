@@ -1,3 +1,7 @@
-.navbar {
+.navbar, .footer {
 	background-color: rgb(61, 61, 61) !important;
+}
+
+.footer span {
+	color: grey !important;
 }
